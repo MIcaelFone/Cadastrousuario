@@ -24,7 +24,6 @@ Permitir o cadastro de usuários com **e-mail** e **nome**, armazenando os dados
 - TypeORM
 - MySQL
 - Swagger
-- Dotenv
 
 ---
 
