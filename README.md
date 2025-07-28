@@ -111,7 +111,7 @@ DB_USER=userdoseuBD
 DB_PASSWORD=suasenha
 DB_NAME=nomedoseudatabase
 ```
-## Como acesso o Swagger
+## Acessar o Swagger
 <strong><p> http://localhost:3001/swagger-ui.html </p> </strong>
 
 ## Tela do sistema
